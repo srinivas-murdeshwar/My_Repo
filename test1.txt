@@ -1,1 +1,3 @@
-doing test for diff command
+doing test for 
+bbj`
+writing second line
